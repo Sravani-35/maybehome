@@ -1,0 +1,17 @@
+strong{
+    font-size:35px;
+}
+.card-icon
+{
+padding:25px;
+margin: 25px;
+font-size:30px;
+}
+.card-body
+{
+    text-align: center;
+}
+/* .card-space
+{
+    width: 288px;
+} */

@@ -1,0 +1,19 @@
+strong{
+    font-size:35px;
+}
+.carousel-item 
+{
+height: 300px;
+
+}
+.homethree
+{
+    border-top: 1px solid rgb(218, 216, 216);
+    margin-top: 70px;
+}
+#accordionExample
+{
+        max-height: 300px;
+        overflow-y: auto; 
+        position: relative;
+}
